@@ -12,18 +12,6 @@ DevTinder is a modern platform for developers to **connect, collaborate, and bui
 Whether you’re looking for teammates for a hackathon, contributors for your open-source project,  
 or co-founders for your next startup idea — DevTinder makes it easy to find the right people.
 
-### 🎬 Video Walkthrough  
-See DevTinder in action!
-
-🔇 *Note: The GitHub-hosted video below may be muted by default due to browser restrictions. Please unmute to hear the audio.*
-
-📽️ Demo Video:  
-
-https://github.com/user-attachments/assets/f741a729-1582-403e-8b6e-d13eb70b76e6
-
-<p align="center">
-  ▶️ Prefer YouTube? <a href="https://youtu.be/t_e-CtLxn_Q">Watch it here</a>
-</p>
 
 <p align="center">
   <strong>Swipe, match, and collaborate with developers. Find teammates for hackathons, side projects, and startups.</strong>
