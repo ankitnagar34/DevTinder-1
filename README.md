@@ -343,7 +343,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by Aryan Jaiswal
+  Made with ❤️ by Ankit Jaiswal
 </p>
 
 <p align="center">
